@@ -64,6 +64,10 @@ The bonus part will only be assessed if the mandatory part is PERFECT. Perfect m
 
 ![Structure of a NASM Program](https://cs.lmu.edu/~ray/images/nasmstructure.png)
 
+[Intro to Assembly](https://github.com/0xAX/asm)
+
+[Compiler Explorer](https://godbolt.org/)
+
 [Assembly Files: Difference between .a .s .asm](https://stackoverflow.com/questions/34098596/assembly-files-difference-between-a-s-asm)
 
 [r/asm](https://www.reddit.com/r/asm/wiki/links/)
