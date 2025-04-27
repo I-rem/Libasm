@@ -60,5 +60,12 @@ typedef struct s_list
 
 The bonus part will only be assessed if the mandatory part is PERFECT. Perfect means the mandatory part has been integrally done and works without malfunctioning. If you have not passed ALL the mandatory requirements, your bonus part will not be evaluated at all.
 
+# Useful Links
+
+![Structure of a NASM Program](https://cs.lmu.edu/~ray/images/nasmstructure.png)
+
+[Assembly Files: Difference between .a .s .asm](https://stackoverflow.com/questions/34098596/assembly-files-difference-between-a-s-asm)
+
+[r/asm](https://www.reddit.com/r/asm/wiki/links/)
 
 
