@@ -72,4 +72,6 @@ The bonus part will only be assessed if the mandatory part is PERFECT. Perfect m
 
 [r/asm](https://www.reddit.com/r/asm/wiki/links/)
 
+[Linux System Call Table for x86 64](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
+
 
